@@ -48,10 +48,10 @@ namespace AhorcadoGame
                     {
                         MessageBox.Show("Esta letra ya se encuentra, seleccione otra");
                         contador++;
+                        break;
                     }
                     else
-                    {
-
+                    { 
                         if (wordArry[i] == letter)
                         {
                             lines[i] = letter;

@@ -499,11 +499,11 @@
             this.lvLista.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lvLista.HideSelection = false;
             this.lvLista.HoverSelection = true;
-            this.lvLista.Location = new System.Drawing.Point(214, 37);
+            this.lvLista.Location = new System.Drawing.Point(183, 37);
             this.lvLista.MultiSelect = false;
             this.lvLista.Name = "lvLista";
             this.lvLista.Scrollable = false;
-            this.lvLista.Size = new System.Drawing.Size(457, 26);
+            this.lvLista.Size = new System.Drawing.Size(529, 26);
             this.lvLista.TabIndex = 4;
             this.lvLista.UseCompatibleStateImageBehavior = false;
             this.lvLista.SelectedIndexChanged += new System.EventHandler(this.lvLista_SelectedIndexChanged);
