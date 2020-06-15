@@ -1,0 +1,11 @@
+C:\Users\Victoria\source\repos\AhorcadoGame\AhorcadoGame\bin\Debug\AhorcadoGame.exe.config
+C:\Users\Victoria\source\repos\AhorcadoGame\AhorcadoGame\bin\Debug\AhorcadoGame.exe
+C:\Users\Victoria\source\repos\AhorcadoGame\AhorcadoGame\bin\Debug\AhorcadoGame.pdb
+C:\Users\Victoria\source\repos\AhorcadoGame\AhorcadoGame\obj\Debug\AhorcadoGame.csprojAssemblyReference.cache
+C:\Users\Victoria\source\repos\AhorcadoGame\AhorcadoGame\obj\Debug\AhorcadoGame.Form1.resources
+C:\Users\Victoria\source\repos\AhorcadoGame\AhorcadoGame\obj\Debug\AhorcadoGame.Properties.Resources.resources
+C:\Users\Victoria\source\repos\AhorcadoGame\AhorcadoGame\obj\Debug\AhorcadoGame.csproj.GenerateResource.cache
+C:\Users\Victoria\source\repos\AhorcadoGame\AhorcadoGame\obj\Debug\AhorcadoGame.csproj.CoreCompileInputs.cache
+C:\Users\Victoria\source\repos\AhorcadoGame\AhorcadoGame\obj\Debug\AhorcadoGame.exe
+C:\Users\Victoria\source\repos\AhorcadoGame\AhorcadoGame\obj\Debug\AhorcadoGame.pdb
+C:\Users\Victoria\source\repos\AhorcadoGame\AhorcadoGame\obj\Debug\AhorcadoGame.Play.resources
