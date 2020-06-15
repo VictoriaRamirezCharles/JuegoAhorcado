@@ -61,19 +61,19 @@ namespace AhorcadoGame
                     intentos++;
                     switch (intentos)
                     {
-                        case 1:
+                        case 2:
                             this.pbImagen.Image = Resources.Imagen2;
                             break;
-                        case 2:
+                        case 3:
                             this.pbImagen.Image = Resources.Imagen3;
                             break;
-                        case 3:
+                        case 4:
                             this.pbImagen.Image = Resources.Imagen4;
                             break;
-                        case 4:
+                        case 5:
                             this.pbImagen.Image = Resources.Imagen5;
                             break;
-                        case 5:
+                        case 6:
                             this.pbImagen.Image = Resources.Imagen6;
                             break;
                     }
