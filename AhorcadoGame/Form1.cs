@@ -44,16 +44,25 @@ namespace AhorcadoGame
 
                 for (int i = 0; i < wordArry.Length; i++)
                 {
-                    if (wordArry[i] == letter)
+                    if (letter == lines[i])
                     {
-                        lines[i] = letter;
-
-                        lvLista.Items[i].Text = lines[i].ToString();
-                        gana++;
+                        MessageBox.Show("Esta letra ya se encuentra, seleccione otra");
                         contador++;
+                    }
+                    else
+                    {
+
+                        if (wordArry[i] == letter)
+                        {
+                            lines[i] = letter;
+
+                            lvLista.Items[i].Text = lines[i].ToString();
+                            gana++;
+                            contador++;
+
+                        }
 
                     }
-
                 }
                 if (contador == 0)
                 {
